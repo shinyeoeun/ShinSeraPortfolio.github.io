@@ -1,0 +1,54 @@
+{
+  "website":{
+    "title": "Shin's Portfolio"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "テスト"
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "jalpc": "되나 테스트",
+    "cpython": "퇼까",
+    "familycode": "오호"
+  },
+  "career":{
+    "my_career": "My Career",
+    "nextcode": "Nextcode",
+    "nextcode_des": "개발센터 QA실</br>AI스피커, 메신저앱, Camera SDK테스트 및 자동화구축 업무 수행",
+    "nextcode_date": "2018. July",
+    "nextcode_job": "테스트 엔지니어",
+    "netease": "Netease Game",
+    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
+    "netease_date": "Jun. 2015",
+    "netease_job": "Dev Ops",
+    "ucloud": "Ucloud",
+    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
+    "ucloud_date": "Sep. 2013",
+    "ucloud_job": "Dev Ops",
+    "college": "Graduation",
+    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
+    "college_date": "Jul. 2013",
+    "college_job": "Student"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
