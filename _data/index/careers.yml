@@ -30,20 +30,6 @@
   icon: fa-plus-square
 
 - name:
-    detail: 국립 한국방송통신대학
-    i18n: KISSCO Japan
-  desc:
-    detail: 정보과학과 재학중 
-    i18n: Now enrolled
-  date:
-    detail: 2016. March - 재학중
-    i18n: March. 2016 - Now enrolled
-  job:
-    detail: 정보과학과 석사
-    i18n: System Engineer
-  icon: fa-plus-square
-
-- name:
     detail: NUVO Cyber Business
     i18n: NUVO Cyber Business
   desc:
@@ -68,19 +54,5 @@
     i18n: January. 2014 - December. 2015
   job:
     detail: 시스템 개발 엔지니어
-    i18n: System Engineer
-  icon: fa-plus-square
-
-- name:
-    detail: 국립 전남대학교
-    i18n: National Chonnam Univ.
-  desc:
-    detail: 재학중 Android앱 개발동아리 활동 & 웹 에이전시 인턴
-    i18n: Developement for Insurence company contract system, Custumer management system etc.
-  date:
-    detail: 2007. March - 2013. September
-    i18n: March. 2007 - September. 2013
-  job:
-    detail: 일어일문학 학사 졸업
     i18n: System Engineer
   icon: fa-plus-square

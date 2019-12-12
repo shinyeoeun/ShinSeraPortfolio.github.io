@@ -1,26 +1,27 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: ekyc Performance Test Automation
+  i18n: ekyc Performance Test Automation
+  url: https://github.com/shinyeoeun/ekycPerformanceTestAutomation
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: 본인인식모듈의 성능을 자동측정하는 자동화 스크립트
 
-- name: Google
-  i18n: google
+- name: Camera SDK Test Automation
+  i18n: Camera SDK Test Automation
+  url: https://github.com/shinyeoeun/yukiTestAutomation
+  img: /static/assets/img/landing/jekyll.png
+  desc: Camera SDK 테스트 자동화 스크립트
+
+- name: File Size Scrapper
+  i18n: File Size Scrapper
+  url: https://github.com/shinyeoeun/buildFileSizeChecker
+  img: /static/assets/img/landing/google.png
+  desc: 웹 사이트에서 QA대상 빌드파일의 사이즈를 스크래이핑하고</br>수집한 데이터를 시각화해서 출력해주는 프로그램
+
+- name: Testing・Quality Assurence
+  i18n: Testing・Quality Assurence
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: 참여함 테스트・QA 프로젝트
